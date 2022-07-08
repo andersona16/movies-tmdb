@@ -13,9 +13,9 @@ body {
 a {
     text-decoration: none;
     color: #F7D354;
-    transition: .5s;
+    transition: 0.5s;
 }
 
-/* a:hover {
-    color: #
-} */
+a:hover {
+    color: #b8930c;
+}
